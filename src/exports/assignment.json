@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603142",
+ "ten": "VuDuyKhanh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "dzerok2020",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000137767.jpg",
+  "000000162046.jpg",
+  "000000164659.jpg",
+  "000000292999.jpg",
+  "000000433787.jpg",
+  "000000109010.jpg",
+  "000000156986.jpg",
+  "000000179201.jpg",
+  "000000391222.jpg",
+  "000000480582.jpg",
+  "000000572411.jpg",
+  "000000326480.jpg"
+ ],
+ "faces": [
+  "face_3348.jpg",
+  "face_469647.jpg",
+  "face_575921.jpg",
+  "face_105668.jpg",
+  "face_449454.jpg",
+  "face_196742.jpg",
+  "face_146049.jpg",
+  "face_562485.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "persons-VuDuyKhanh"
+  },
+  "faces": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "faces-VuDuyKhanh"
+  },
+  "persons-extra": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "persons-extra-VuDuyKhanh"
+  },
+  "faces-extra": {
+   "task_id": 15,
+   "job_id": 15,
+   "task_name": "faces-extra-VuDuyKhanh"
+  }
+ },
+ "persons_extra": [
+  "000000337458.jpg",
+  "000000373426.jpg",
+  "000000517702.jpg"
+ ],
+ "faces_extra": [
+  "face_102517.jpg",
+  "face_280788.jpg",
+  "face_296417.jpg",
+  "face_300200.jpg",
+  "face_494518.jpg"
+ ]
+}
